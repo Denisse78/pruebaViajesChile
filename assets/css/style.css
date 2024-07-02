@@ -2,9 +2,19 @@
     color: #fff;
     background-color: #000;
 }
+
 i{
     font-size: 25px;
 }
 .fondoceleste{
     background-color: #0088bb;
 }
+
+.fuenteblanca{
+    color: #fff;
+}
+
+section div div div div img{
+    height: 190px;
+}
+
